@@ -6,7 +6,7 @@ h1 {
 }
 
 h2 {
-  color: #904E55;
+  color: #999999;
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
   font-weight: 300;
@@ -31,6 +31,9 @@ img {
   border-radius: 5px;
 }
 
+table h3 {
+  margin-top: 0;
+}
 .card {
   background-color: white;
   padding: 30px;
@@ -38,6 +41,12 @@ img {
   text-align: center;
   border-radius: 4px;
   box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
+}
+
+a {
+  text-decoration: none;
+  color: #999999;
+  font-size: 15px;
 }
 
 .text-center {
@@ -59,7 +68,7 @@ img {
 
 
 .container{
-  width: 500px;
+  width: 600px;
   margin: 0 auto;
 }
 
